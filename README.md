@@ -126,7 +126,7 @@ Statistical analysis of global malaria mortality trends using WHO datasets, inte
 
 Developed an interactive analytical framework for exploring temporal and regional disparities in malaria mortality.
 
-🔗 https://github.com/nonyeanams/Public_Health_Analytics_Portfolio/01_Malaria_Mortality_Trends_R
+🔗https://github.com/NonyeAnams/Public_Health_Analytics_Portfolio/tree/main/01_Malaria_Mortality_Trends_R
 
 ---
 
