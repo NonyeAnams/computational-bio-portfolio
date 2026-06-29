@@ -27,7 +27,7 @@ I am particularly interested in understanding how large-scale genomic data can b
 
 # Selected Research Projects
 
-## 🧬 Identifying Prognostic Transcriptional Programs in Breast Cancer (TCGA-BRCA)
+## 1. Identifying Prognostic Transcriptional Programs in Breast Cancer (TCGA-BRCA)
 
 Comprehensive bulk RNA-seq analysis of **1,019 breast cancer patients** integrating differential expression analysis, functional enrichment, survival modeling, and predictive machine learning to identify transcriptional programs associated with patient prognosis.
 
@@ -48,7 +48,7 @@ Identified prognostic transcriptional signatures and demonstrated improved predi
 
 ---
 
-## 🧬 Molecular Subtype Characterization and Survival Determinants in Diffuse Large B-cell Lymphoma (GSE10846)
+## 2. Molecular Subtype Characterization and Survival Determinants in Diffuse Large B-cell Lymphoma (GSE10846)
 
 Computational analysis of DLBCL transcriptomic profiles integrating molecular subtype characterization, differential expression analysis, pathway enrichment, and survival modeling to investigate subtype-specific biology and prognostic determinants.
 
@@ -69,7 +69,7 @@ Characterized subtype-specific transcriptional programs and confirmed molecular 
 
 ---
 
-## 🧬 Pathway-Level Modeling of Chemotherapy Response in Breast Cancer
+## 3. Pathway-Level Modeling of Chemotherapy Response in Breast Cancer
 
 RNA-seq analysis of chemotherapy response integrating confounding-aware preprocessing, pathway activity estimation, and predictive machine learning to investigate molecular determinants of treatment response.
 
@@ -90,7 +90,7 @@ Demonstrated that pathway-level molecular representations improve robustness to 
 
 ---
 
-## 🧬 Single-Cell Analysis of Immune–Fibroblast Communication During Foreign Body Response
+## 4. Single-Cell Analysis of Immune–Fibroblast Communication During Foreign Body Response
 
 Single-cell RNA-seq analysis investigating immune and stromal cell populations associated with biomaterial implantation, with emphasis on macrophage polarization, fibroblast activation, and intercellular communication.
 
@@ -110,7 +110,7 @@ Identified immune–stromal interaction programs associated with fibrotic remode
 
 ---
 
-## 🌍 Population-Level Malaria Mortality Analytics
+## 5. Population-Level Malaria Mortality Analytics
 
 Statistical analysis of global malaria mortality trends using WHO datasets, integrating epidemiological modeling, geospatial visualization, and interactive dashboard development.
 
